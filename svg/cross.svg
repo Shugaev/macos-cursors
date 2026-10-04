@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24"><defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,24)" d="M0 24H24V0H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,24)" d="M0 24H24V0H0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(1,0,0,-1,4,11.5)" d="M0 0V0C0 .828 .672 1.5 1.5 1.5H13.5C14.328 1.5 15 .828 15 0 15-.828 14.328-1.5 13.5-1.5H1.5C.672-1.5 0-.828 0 0" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,11.5,19)" d="M0 0V0C-.828 0-1.5 .672-1.5 1.5V13.5C-1.5 14.328-.828 15 0 15 .828 15 1.5 14.328 1.5 13.5V1.5C1.5 .672 .828 0 0 0" fill="#ffffff"/>
+</g>
+</g>
+<g>
+<g clip-path="url(#clip_2)">
+<path transform="matrix(1,0,0,-1,17.5,12)" d="M0 0H-12C-12.276 0-12.5 .224-12.5 .5-12.5 .776-12.276 1-12 1H0C.276 1 .5 .776 .5 .5 .5 .224 .276 0 0 0" fill="#232020"/>
+<path transform="matrix(1,0,0,-1,11,17.5)" d="M0 0V12C0 12.276 .224 12.5 .5 12.5 .776 12.5 1 12.276 1 12V0C1-.276 .776-.5 .5-.5 .224-.5 0-.276 0 0" fill="#232020"/>
+</g>
+</g></svg>

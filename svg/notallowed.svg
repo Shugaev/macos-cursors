@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="40" viewBox="0 0 28 40"><defs><linearGradient id="shading_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0" gradientTransform="matrix(0 18 -18 0 14 17)"><stop offset="0" stop-color="#AEAEB2"/><stop offset="0.00235601" stop-color="#AEAEB2"/><stop offset="0.00235601" stop-color="#AEAEB2"/><stop offset="1" stop-color="#8E8E93"/></linearGradient>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,40)" d="M5 14C5 9.03 9.03 5 14 5 18.97 5 23 9.03 23 14 23 18.97 18.97 23 14 23 9.03 23 5 18.97 5 14"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,40)" d="M0 40H28V0H0Z"/>
+</clipPath>
+</defs>
+<g>
+<g clip-path="url(#clip_1)">
+<rect x="5" y="17" width="18" height="18" fill="url(#shading_1)"/>
+</g>
+<g clip-path="url(#clip_2)">
+<path transform="matrix(1,0,0,-1,5.5015,3.7415009)" d="M0 0 8.383-8.401C9.436-9.457 8.689-11.259 7.198-11.259L3.751-11.258 1.283-13.443C.202-14.399-1.501-13.632-1.501-12.188V-.621C-1.501 .163-.554 .555 0 0" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,5,5.010601)" d="M0 0V-10.897C0-11.487 .697-11.801 1.139-11.41L3.874-8.989 7.674-8.99C8.284-8.99 8.59-8.253 8.159-7.821L.251 .104C.159 .197 0 .131 0 0"/>
+<path transform="matrix(1,0,0,-1,14,30.498299)" d="M0 0C-2.484 0-4.498 2.014-4.498 4.498-4.498 6.983-2.484 8.997 0 8.997 2.484 8.997 4.498 6.983 4.498 4.498 4.498 2.014 2.484 0 0 0M0 10.498C-3.314 10.498-6 7.812-6 4.498-6 1.185-3.314-1.502 0-1.502 3.314-1.502 6 1.185 6 4.498 6 7.812 3.314 10.498 0 10.498" fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,17.3781,30.621899)" d="M0 0-8 8-6.756 9.244 1.244 1.244Z" fill="#ffffff"/>
+</g>
+</g></svg>

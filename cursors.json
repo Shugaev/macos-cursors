@@ -1,0 +1,382 @@
+{
+ "macos": "27.0 (26A428)",
+ "cursors": [
+  {
+   "name": "arrow",
+   "width": 28,
+   "height": 40,
+   "hotspot": [
+    5,
+    5
+   ]
+  },
+  {
+   "name": "busybutclickable",
+   "width": 28,
+   "height": 40,
+   "hotspot": [
+    5,
+    5
+   ],
+   "frames": 15,
+   "frameDuration": 0.033
+  },
+  {
+   "name": "cell",
+   "width": 18,
+   "height": 18,
+   "hotspot": [
+    9,
+    9
+   ]
+  },
+  {
+   "name": "closedhand",
+   "width": 32,
+   "height": 32,
+   "hotspot": [
+    15,
+    16
+   ]
+  },
+  {
+   "name": "contextualmenu",
+   "width": 28,
+   "height": 40,
+   "hotspot": [
+    5,
+    5
+   ]
+  },
+  {
+   "name": "copy",
+   "width": 28,
+   "height": 40,
+   "hotspot": [
+    5,
+    5
+   ]
+  },
+  {
+   "name": "countingdownhand",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    12
+   ],
+   "frames": 6,
+   "frameDuration": 0.5
+  },
+  {
+   "name": "countingupandownhand",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    12
+   ],
+   "frames": 10,
+   "frameDuration": 0.5
+  },
+  {
+   "name": "countinguphand",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    12
+   ],
+   "frames": 6,
+   "frameDuration": 0.5
+  },
+  {
+   "name": "cross",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "help",
+   "width": 18,
+   "height": 18,
+   "hotspot": [
+    9,
+    9
+   ]
+  },
+  {
+   "name": "ibeamhorizontal",
+   "width": 23,
+   "height": 22,
+   "hotspot": [
+    12,
+    11
+   ]
+  },
+  {
+   "name": "ibeamvertical",
+   "width": 22,
+   "height": 21,
+   "hotspot": [
+    11,
+    10
+   ]
+  },
+  {
+   "name": "makealias",
+   "width": 16,
+   "height": 21,
+   "hotspot": [
+    11,
+    3
+   ]
+  },
+  {
+   "name": "move",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    12
+   ]
+  },
+  {
+   "name": "notallowed",
+   "width": 28,
+   "height": 40,
+   "hotspot": [
+    5,
+    5
+   ]
+  },
+  {
+   "name": "openhand",
+   "width": 32,
+   "height": 32,
+   "hotspot": [
+    15,
+    16
+   ]
+  },
+  {
+   "name": "pointinghand",
+   "width": 32,
+   "height": 32,
+   "hotspot": [
+    12,
+    8
+   ]
+  },
+  {
+   "name": "poof",
+   "width": 28,
+   "height": 40,
+   "hotspot": [
+    5,
+    5
+   ]
+  },
+  {
+   "name": "resizedown",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    11
+   ]
+  },
+  {
+   "name": "resizeeast",
+   "width": 24,
+   "height": 18,
+   "hotspot": [
+    12,
+    9
+   ]
+  },
+  {
+   "name": "resizeeastwest",
+   "width": 24,
+   "height": 18,
+   "hotspot": [
+    12,
+    9
+   ]
+  },
+  {
+   "name": "resizeleft",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    12
+   ]
+  },
+  {
+   "name": "resizeleftright",
+   "width": 30,
+   "height": 24,
+   "hotspot": [
+    15,
+    12
+   ]
+  },
+  {
+   "name": "resizenorth",
+   "width": 18,
+   "height": 28,
+   "hotspot": [
+    9,
+    14
+   ]
+  },
+  {
+   "name": "resizenortheast",
+   "width": 22,
+   "height": 22,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "resizenortheastsouthwest",
+   "width": 22,
+   "height": 22,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "resizenorthsouth",
+   "width": 18,
+   "height": 28,
+   "hotspot": [
+    9,
+    14
+   ]
+  },
+  {
+   "name": "resizenorthwest",
+   "width": 22,
+   "height": 22,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "resizenorthwestsoutheast",
+   "width": 22,
+   "height": 22,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "resizeright",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    12
+   ]
+  },
+  {
+   "name": "resizesouth",
+   "width": 18,
+   "height": 28,
+   "hotspot": [
+    9,
+    14
+   ]
+  },
+  {
+   "name": "resizesoutheast",
+   "width": 22,
+   "height": 22,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "resizesouthwest",
+   "width": 22,
+   "height": 22,
+   "hotspot": [
+    11,
+    11
+   ]
+  },
+  {
+   "name": "resizeup",
+   "width": 24,
+   "height": 24,
+   "hotspot": [
+    12,
+    13
+   ]
+  },
+  {
+   "name": "resizeupdown",
+   "width": 24,
+   "height": 28,
+   "hotspot": [
+    12,
+    14
+   ]
+  },
+  {
+   "name": "resizewest",
+   "width": 24,
+   "height": 18,
+   "hotspot": [
+    12,
+    9
+   ]
+  },
+  {
+   "name": "screenshotselection",
+   "width": 32,
+   "height": 32,
+   "hotspot": [
+    15,
+    15
+   ]
+  },
+  {
+   "name": "screenshotwindow",
+   "width": 28,
+   "height": 25,
+   "hotspot": [
+    14,
+    11
+   ]
+  },
+  {
+   "name": "zoomin",
+   "width": 28,
+   "height": 26,
+   "hotspot": [
+    12,
+    11
+   ]
+  },
+  {
+   "name": "zoomout",
+   "width": 28,
+   "height": 26,
+   "hotspot": [
+    12,
+    11
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32"><defs>
+<clipPath id="clip_1">
+<path transform="matrix(1,0,0,-1,0,32)" d="M0 0H32V32H0Z"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,0,32)" d="M4 5H27V28H4Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,0,32)" d="M4 5H27V27.999H4Z"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,0,32)" d="M15 5H16V28H15Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(1,0,0,-1,0,32)" d="M4 16H27V17H4Z"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,0,32)" d="M10 11H21V22H10Z"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(1,0,0,-1,0,32)" d="M10 11H21V22H10Z"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,0,32)" d="M9.5 10.5H21.5V22.5H9.5Z"/>
+</clipPath>
+<clipPath id="clip_9">
+<path transform="matrix(1,0,0,-1,0,32)" d="M9.5 10.5H21.5V22.5H9.5Z"/>
+</clipPath>
+</defs>
+<g>
+<g>
+<g clip-path="url(#clip_1)">
+<g opacity=".850006">
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g opacity=".850006">
+<g clip-path="url(#clip_4)">
+<path transform="matrix(1,0,0,-1,0,32)" d="M15 17H16V28H15Z" fill="#231f20"/>
+<path transform="matrix(1,0,0,-1,0,32)" d="M15 5H16V16H15Z" fill="#231f20"/>
+</g>
+</g>
+<g opacity=".850006">
+<g clip-path="url(#clip_5)">
+<path transform="matrix(1,0,0,-1,0,32)" d="M4 16H15.002V17H4Z" fill="#231f20"/>
+<path transform="matrix(1,0,0,-1,0,32)" d="M16 16H27V17H16Z" fill="#231f20"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g opacity=".149994">
+<g clip-path="url(#clip_6)">
+<g clip-path="url(#clip_7)">
+<path transform="matrix(1,0,0,-1,21,15.5)" d="M0 0C0-3.037-2.463-5.5-5.5-5.5-8.538-5.5-11-3.037-11 0-11 3.038-8.538 5.5-5.5 5.5-2.463 5.5 0 3.038 0 0" fill="#231f20"/>
+</g>
+</g>
+</g>
+<g opacity=".300003">
+<g clip-path="url(#clip_8)">
+<g clip-path="url(#clip_9)">
+<path transform="matrix(1,0,0,-1,21,15.5)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#231f20" d="M0 0C0-3.037-2.463-5.5-5.5-5.5-8.538-5.5-11-3.037-11 0-11 3.038-8.538 5.5-5.5 5.5-2.463 5.5 0 3.038 0 0Z"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g></svg>
